@@ -1,3 +1,6 @@
+---
+lauout: post
+---
 
 # Desenvolver um jogo em Python com Panda3D
 
